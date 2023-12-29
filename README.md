@@ -2,8 +2,6 @@
 
 Este mini proyecto es parte del curso 🎓 de Udemy impartido por Juan Pablo De la Torre Valdez sobre React.
 
-Aplicación desarrollada con Vite/React, Emotion/React y Material-UI. Utiliza Axios para realizar fetching de datos de una API externa. Las variables de entorno configuradas con Vite se utilizan para gestionar claves de API, ya que la API solo funciona en entornos de desarrollo. La aplicación realiza un filtrado simple y presenta paginación.
-
 ## Contenido del Proyecto
 
 Durante el desarrollo de esta aplicación, exploramos el uso de Emotion/React y Material-UI para aprovechar componentes ya construidos. Utilizamos Axios para realizar fetching de una API externa, la API Key la gestionamos con variable de entorno con la configuración de Vite, implementamos un filtrado simple para las categorías a realizar el fetching y aprendemos a crear una paginación.
